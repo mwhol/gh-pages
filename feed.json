@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "My Blog",
+    "description": "",
+    "home_page_url": "https:// mwhol.github.io/gh-pages",
+    "feed_url": "https:// mwhol.github.io/gh-pages/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Michael"
+    },
+    "items": [
+        {
+            "id": "https:// mwhol.github.io/gh-pages/test.html",
+            "url": "https:// mwhol.github.io/gh-pages/test.html",
+            "title": "test",
+            "summary": "test test test",
+            "content_html": "<p> </p>\n<p> </p>\n<p>test</p>\n<p>test</p>\n<p>test</p>",
+            "author": {
+                "name": "Michael"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-09-20T18:50:03-05:00",
+            "date_modified": "2022-09-20T18:50:03-05:00"
+        }
+    ]
+}

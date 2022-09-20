@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>My Blog</title>
+    <link href="https:// mwhol.github.io/gh-pages/feed.xml" rel="self" />
+    <link href="https:// mwhol.github.io/gh-pages" />
+    <updated>2022-09-20T18:50:03-05:00</updated>
+    <author>
+        <name>Michael</name>
+    </author>
+    <id>https:// mwhol.github.io/gh-pages</id>
+
+    <entry>
+        <title>test</title>
+        <author>
+            <name>Michael</name>
+        </author>
+        <link href="https:// mwhol.github.io/gh-pages/test.html"/>
+        <id>https:// mwhol.github.io/gh-pages/test.html</id>
+
+        <updated>2022-09-20T18:50:03-05:00</updated>
+            <summary>
+                <![CDATA[
+                    test test test
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p> </p>
+<p> </p>
+<p>test</p>
+<p>test</p>
+<p>test</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
